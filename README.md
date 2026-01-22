@@ -64,5 +64,36 @@ https://
 
 [![Документация](https://img.shields.io/badge/📚_Документация-4A90E2?style=for-the-badge)](./docs/README.md)
 
+
+markdown
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
+2. Только текст, градиент
+
+markdown
+[![Portfolio](https://img.shields.io/badge/Моё_Портфолио-FF6B8B?style=for-the-badge&logoColor=white)](https://my-site.com)
+3. С иконкой технологии
+
+markdown
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
+4. Кнопка-документация
+
+markdown
+[![Документация](https://img.shields.io/badge/📚_Документация-4A90E2?style=for-the-badge)](./docs/README.md)
+5. Со статусом (статус "обновлено")
+
+markdown
+[![Обновлено](https://img.shields.io/badge/🔄_Обновлено_сегодня-00C853?style=for-the-badge)](./UPDATES.md)
+6. Для скачивания
+
+markdown
+[![Скачать APK](https://img.shields.io/badge/📥_Скачать_APK-v1.0.0-8B4513?style=for-the-badge)](https://example.com/app.apk)
+7. Простая цветная
+
+markdown
+[![Контакты](https://img.shields.io/badge/✉️_Связаться_со_мной-FF9800?style=for-the-badge)](mailto:email@example.com)
+Шаблон для создания своей:
+
+markdown
+[![Текст_на_кнопке](https://img.shields.io/badge/ТЕКСТ-ЦВЕТ?style=for-the-badge&logo=НАЗВАНИЕ-ЛОГО&logoColor=white)](ССЫЛКА)
 https://
 
