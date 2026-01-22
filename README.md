@@ -97,3 +97,8 @@ markdown
 [![Текст_на_кнопке](https://img.shields.io/badge/ТЕКСТ-ЦВЕТ?style=for-the-badge&logo=НАЗВАНИЕ-ЛОГО&logoColor=white)](ССЫЛКА)
 https://
 
+# Мои решения PortSwigger Academy
+
+## 📂 SQL-инъекции (SQL Injection)
+
+*   [Лаборатория 1: SQL injection vulnerability in WHERE clause...](./SQLi_все_лаборатории/SQLi_лаборатория_01.md)
