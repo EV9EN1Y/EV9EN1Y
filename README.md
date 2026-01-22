@@ -1,5 +1,15 @@
 
  <img src="../12345.gif" style="width: 100%; max-width: 300px;" />
+ <img src="12345.gif" alt="Описание" style="width: 100%; max-width: 300px;" />
+
+
+![Моя демонстрация](12345.gif)
+<img src="12345.gif" alt="Моя демонстрация" />
+<img src="12345.gif" alt="Моя демонстрация" width="300" />
+<img src="12345.gif" alt="Моя демонстрация" style="max-width: 300px; border: 1px solid #ccc;" />
+![Моя демонстрация](https://github.com/EV9EN1Y/raw/main/12345.gif)
+<img src="https://github.com/EV9EN1Y/EV9EN1Y/raw/main/12345.gif" alt="Моя демонстрация" />
+
 # В ПРОЦЕССЕ РЕДАКТИРОВАНИЯ......
 
 
