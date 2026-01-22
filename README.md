@@ -101,7 +101,7 @@ https://
 
 ## 📂 SQL-инъекции (SQL Injection)
 
-*   [Лаборатория 1: SQL injection vulnerability in WHERE clause...](./SQLi_all_lab/SQLi_lab_01.md)
+*   [Лаборатория 1: SQL injection vulnerability in WHERE clause...](./portswigger-academy-solutions/SQLi_all_lab/SQLi_lab_01.md)
 
 
 
