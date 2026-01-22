@@ -55,15 +55,11 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 
 Я всегда открыт для обсуждения интересных проектов, совместных исследований в области AppSec или вакансий.
 
-https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white
-https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white
-https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white
+https://
 
 🔍 Перейти к детальным исследованиям
 
 Нажмите на кнопку, чтобы увидеть мои разборы конкретных типов уязвимостей, реализованные на учебном стенде MeetWay.
 
-https://img.shields.io/badge/%F0%9F%94%90_Auth_%D0%A3%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%B8_%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-FF6B6B?style=for-the-badge&logo=key&logoColor=white
-https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_API_Security_%D0%B8_IDOR-3B82F6?style=for-the-badge&logo=shield-check&logoColor=white
-https://img.shields.io/badge/%F0%9F%93%B1_Mobile_AppSec_%D0%B8_%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-10B981?style=for-the-badge&logo=apple&logoColor=white
+https://
 
