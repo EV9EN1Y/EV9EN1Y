@@ -70,7 +70,9 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 |-----------|-----------|-----------|
 |![Контакты](https://img.shields.io/badge/MeetWay-0059b3?style=for-the-badge)|![Контакты](https://img.shields.io/badge/TradingDiary-0059b3?style=for-the-badge)|![Контакты](https://img.shields.io/badge/Empire-0059b3?style=for-the-badge)|
 ------------------------
-
+MeetWay
+TradingDiary
+Empire
 
 | Основные технологии и языки |
 |--------------------|
@@ -79,8 +81,16 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 |-----------|-----------|-----------|
 | ![Контакты](https://img.shields.io/badge/Swift-004c99?style=for-the-badge&logo=swift&logoColor=white)  | ![Контакты](https://img.shields.io/badge/Python-004c99?style=for-the-badge&logo=python&logoColor=white)  | ![Контакты](https://img.shields.io/badge/REST_API-004c99?style=for-the-badge)  |
 | ![Контакты](https://img.shields.io/badge/SQL-004c99?style=for-the-badge&logo=postgresql&logoColor=white)  | ![Контакты](https://img.shields.io/badge/JSON-004c99?style=for-the-badge&logo=json&logoColor=white)  | ![Контакты](https://img.shields.io/badge/JWT-004c99?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  |
-| ![Контакты](https://img.shields.io/badge/JavaScript-004c99?style=for-the-badge&logo=javascript&logoColor=black)  | ![Контакты](https://img.shields.io/badge/WebSocket-004c99?style=for-the-badge)  | Данные 6  |
+| ![Контакты](https://img.shields.io/badge/JavaScript-004c99?style=for-the-badge&logo=javascript&logoColor=black)  | ![Контакты](https://img.shields.io/badge/WebSocket-004c99?style=for-the-badge)  ||
 ------------------------
+Swift
+SQL
+JavaScript
+Python
+JSON
+WebSocket
+REST_API
+JWT
 
 | iOS SDK и фреймворки |
 |--------------------|
@@ -93,6 +103,11 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 |![Контакты](https://img.shields.io/badge/URLSession-006666?style=for-the-badge)|![Контакты](https://img.shields.io/badge/DGCharts-006666?style=for-the-badge)|![Контакты](https://img.shields.io/badge/CoreLocation-006666?style=for-the-badge)|
 |![Контакты](https://img.shields.io/badge/AVFoundation-006666?style=for-the-badge)|![Контакты](https://img.shields.io/badge/AVKit-006666?style=for-the-badge)|![Контакты](https://img.shields.io/badge/PhotosUI-006666?style=for-the-badge)|
 ------------------------
+
+
+
+
+
 
 | Архитектуры и принципы проектирования |
 |--------------------|
@@ -152,13 +167,11 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 
 |           |           |           |
 |-----------|-----------|-----------|
-| ![Контакты](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) | ![Контакты](https://img.shields.io/badge/MASTG-000000?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=owasp&logoColor=white) |
-| ![Контакты](https://img.shields.io/badge/STRIDE-000000?style=for-the-badge&logo=owasp&logoColor=white) | ![Контакты](https://img.shields.io/badge/FRIDA-000000?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/JARX-000000?style=for-the-badge&logo=owasp&logoColor=white) |
-| ![Контакты](https://img.shields.io/badge/GHIDRA-000000?style=for-the-badge&logo=owasp&logoColor=white) | ![Контакты](https://img.shields.io/badge/PORTSWIGGER(lab)-000000?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge&logo=owasp&logoColor=white) |
-| ![Контакты](https://img.shields.io/badge/nMAP-000000?style=for-the-badge&logo=owasp&logoColor=white) | ![Контакты](https://img.shields.io/badge/sqlMAP-000000?style=for-the-badge) |![Контакты](https://img.shields.io/badge/AuditApp-000000?style=for-the-badge)|
+| ![](https://img.shields.io/badge/OWASP-000000?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/MASTG-000000?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge) |
+| ![Контакты](https://img.shields.io/badge/STRIDE-000000?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/FRIDA-000000?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/JARX-000000?style=for-the-badge) |
+| ![Контакты](https://img.shields.io/badge/GHIDRA-000000?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/PORTSWIGGER-000000?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge) |
+| ![Контакты](https://img.shields.io/badge/nMAP-000000?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/sqlMAP-000000?style=for-the-badge) |![Контакты](https://img.shields.io/badge/AuditApp-000000?style=for-the-badge)|
 ------------------------
-
-
 
 
 
