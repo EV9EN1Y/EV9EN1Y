@@ -14,11 +14,13 @@
 MeetWay — это не просто приложение в моём портфолио. Это полнофункциональный стенд для практического изучения безопасности, который я разработал с нуля (iOS, бэкенд, инфраструктура). Здесь я моделирую, исследую и устраняю реальные уязвимости.
 
 -----------------
-[![](https://img.shields.io/badge/__My_RESUME__-ЦВЕТ?style=for-the-badge)
+![](https://img.shields.io/badge/__My_RESUME__-ЦВЕТ?style=for-the-badge)
 
-[![](https://img.shields.io/badge/__My_PROGECTs__-ЦВЕТ?style=for-the-badge)
+![](https://img.shields.io/badge/__My_PROGECTs__-ЦВЕТ?style=for-the-badge)
 
-[![](https://img.shields.io/badge/__My_Laboratory_work__-ЦВЕТ?style=for-the-badge)
+![](https://img.shields.io/badge/__My_Laboratory_work__-ЦВЕТ?style=for-the-badge)
+
+[![My Resume](https://img.shields.io/badge/__My_RESUME__-ЦВЕТ?style=for-the-badge)](https://github.com/EV9EN1Y/MAIN-REPO)
 
 
 [Лаборатория 1: SQL injection...](https://github.com/EV9EN1Y/portswigger-academy-solutions/blob/main/SQLi_all_lab/SQLi_lab_01.md)
