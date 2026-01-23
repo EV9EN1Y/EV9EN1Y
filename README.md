@@ -100,9 +100,8 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 |           |           |           |
 |-----------|-----------|-----------|
 | ![Контакты](https://img.shields.io/badge/MVVM-660033?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/MVC-660033?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/VIPER-660033?style=for-the-badge) |
-| ![Контакты](https://img.shields.io/badge/Clean_Architecture-660033?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/SOLID-660033?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/SOLID-660033?style=for-the-badge)  |
-| ![Контакты](https://img.shields.io/badge/OOP-660033?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/Unit_Testing-660033?style=for-the-badge)  ||
-|![Контакты](https://img.shields.io/badge/MVVM-660033?style=for-the-badge)|![Контакты](https://img.shields.io/badge/MVC-660033?style=for-the-badge)|![Контакты](https://img.shields.io/badge/VIPER-660033?style=for-the-badge)|
+| ![Контакты](https://img.shields.io/badge/Clean_Architecture-660033?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/SOLID-660033?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/OOP-660033?style=for-the-badge)|
+| ![Контакты](https://img.shields.io/badge/Unit_Testing-660033?style=for-the-badge) |
 ------------------------
 
 
@@ -111,7 +110,7 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 
 |           |           |           |
 |-----------|-----------|-----------|
-| ![Контакты](https://img.shields.io/badge/AES--256--GCM-4A90E2?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/OAuth_2.0-4A90E2?style=for-the-badge&logo=oauth&logoColor=white) | ![Контакты](https://img.shields.io/badge/152--%D0%A4%D0%97-4A90E2?style=for-the-badge) |
+| ![Контакты](https://img.shields.io/badge/AES--256--GCM-afd60c?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/OAuth_2.0-afd60c?style=for-the-badge&logo=oauth&logoColor=white) | ![Контакты](https://img.shields.io/badge/152--%D0%A4%D0%97-afd60c?style=for-the-badge) |
 ------------------------
 
 
@@ -123,7 +122,7 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 |-----------|-----------|-----------|
 | ![Контакты](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Контакты](https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge&logo=yandexcloud&logoColor=black) | ![Контакты](https://img.shields.io/badge/YDB-FFCC00?style=for-the-badge) |
 | ![Контакты](https://img.shields.io/badge/YCF-FFCC00?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/Object_Storage-FFCC00?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/Yandex_ID-FFCC00?style=for-the-badge)  |
-| ![Контакты](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  |||
+| ![Контакты](https://img.shields.io/badge/Supabase-FFCA28?style=for-the-badge&logo=supabase&logoColor=white)  |||
 ------------------------
 
 
@@ -133,8 +132,8 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 
 |           |           |           |
 |-----------|-----------|-----------|
-| ![Контакты](https://img.shields.io/badge/CoreData-FF2D55?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Контакты](https://img.shields.io/badge/YDB-FFCC00?style=for-the-badge) |
-| ![Контакты](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  |||
+| ![Контакты](https://img.shields.io/badge/CoreData-657911?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/Firebase-657911?style=for-the-badge&logo=firebase&logoColor=black) | ![Контакты](https://img.shields.io/badge/YDB-657911?style=for-the-badge) |
+| ![Контакты](https://img.shields.io/badge/SQL-657911?style=for-the-badge&logo=postgresql&logoColor=white)  |||
 ------------------------
 
 
@@ -143,9 +142,9 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 
 |           |           |           |
 |-----------|-----------|-----------|
-| ![Контакты](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Контакты](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) | ![Контакты](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white) |
-| ![Контакты](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)  | ![Контакты](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)  | ![Контакты](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)  |
-| ![Контакты](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  |![Контакты](https://img.shields.io/badge/Py-Charm-F24E1E?style=for-the-badge&logo=figma&logoColor=white)||
+| ![Контакты](https://img.shields.io/badge/Git-e4a68f?style=for-the-badge&logo=git&logoColor=white) | ![Контакты](https://img.shields.io/badge/Xcode-e4a68f?style=for-the-badge&logo=xcode&logoColor=white) | ![Контакты](https://img.shields.io/badge/CocoaPods-e4a68f?style=for-the-badge&logo=cocoapods&logoColor=white) |
+| ![Контакты](https://img.shields.io/badge/CocoaPods-e4a68f?style=for-the-badge&logo=cocoapods&logoColor=white)  | ![Контакты](https://img.shields.io/badge/TestFlight-e4a68f?style=for-the-badge&logo=appstore&logoColor=white)  | ![Контакты](https://img.shields.io/badge/App_Store_Connect-e4a68f?style=for-the-badge&logo=appstore&logoColor=white)  |
+| ![Контакты](https://img.shields.io/badge/Figma-e4a68f?style=for-the-badge&logo=figma&logoColor=white)  |![Контакты](https://img.shields.io/badge/Py-Charm-e4a68f?style=for-the-badge&logo=figma&logoColor=white)||
 ------------------------
 
 | AppSEC + PENTEST |
