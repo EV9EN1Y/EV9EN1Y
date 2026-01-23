@@ -73,9 +73,14 @@ markdown
 
 |![Контакты](https://img.shields.io/badge/Developer_Stack-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/My_Projects-b81495?style=for-the-badge)|
 | :--- | :--- |
-| строка 1 | строка 1 |
-| строка 2 | строка 2 |
-| строка 3 | строка 3 |
+| ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) | MeetWay |
+| ![Контакты](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) | Trading Diary |
+| ![Контакты](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | Imperia |
+|![Контакты](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)||
+|![Контакты](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)||
+|![Контакты](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge)||
+|![Контакты](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)||
+|![Контакты](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)||
 
 |![Контакты](https://img.shields.io/badge/Security_Stack-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/Lab_Solution-b81495?style=for-the-badge)|
 | :--- | :--- | 
@@ -88,3 +93,70 @@ markdown
 | строка 1 | строка 1 |
 | строка 2 | строка 2 |
 | строка 3 | строка 3 |
+
+
+
+
+
+Основные технологии и языки
+![Контакты](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Контакты](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Контакты](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Контакты](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Контакты](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge)
+![Контакты](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Контакты](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
+![Контакты](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+iOS SDK и фреймворки
+https://img.shields.io/badge/SwiftUI-0055FF?style=for-the-badge&logo=swift&logoColor=white
+https://img.shields.io/badge/UIKit-5856D6?style=for-the-badge
+https://img.shields.io/badge/CoreData-FF2D55?style=for-the-badge
+https://img.shields.io/badge/Keychain-8E8E93?style=for-the-badge
+https://img.shields.io/badge/StoreKit-0D96F6?style=for-the-badge&logo=appstore&logoColor=white
+https://img.shields.io/badge/APNs-5856D6?style=for-the-badge
+https://img.shields.io/badge/GCD-5856D6?style=for-the-badge
+https://img.shields.io/badge/Swift_Concurrency-F05138?style=for-the-badge&logo=swift&logoColor=white
+https://img.shields.io/badge/XCTest-147EFB?style=for-the-badge
+https://img.shields.io/badge/URLSession-147EFB?style=for-the-badge
+
+Архитектуры и принципы проектирования
+https://img.shields.io/badge/MVVM-FF6B35?style=for-the-badge
+https://img.shields.io/badge/MVC-FF6B35?style=for-the-badge
+https://img.shields.io/badge/VIPER-FF6B35?style=for-the-badge
+https://img.shields.io/badge/Clean_Architecture-FF6B35?style=for-the-badge
+https://img.shields.io/badge/SOLID-FF6B35?style=for-the-badge
+https://img.shields.io/badge/OOP-FF6B35?style=for-the-badge
+https://img.shields.io/badge/Unit_Testing-FF6B35?style=for-the-badge
+
+Безопасность
+https://img.shields.io/badge/AES--256--GCM-4A90E2?style=for-the-badge
+https://img.shields.io/badge/OAuth_2.0-4A90E2?style=for-the-badge&logo=oauth&logoColor=white
+https://img.shields.io/badge/152--%D0%A4%D0%97-4A90E2?style=for-the-badge
+
+Бэкенд и облачные сервисы
+https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge&logo=yandexcloud&logoColor=black
+https://img.shields.io/badge/YDB-FFCC00?style=for-the-badge
+https://img.shields.io/badge/YCF-FFCC00?style=for-the-badge
+https://img.shields.io/badge/Object_Storage-FFCC00?style=for-the-badge
+https://img.shields.io/badge/Yandex_ID-FFCC00?style=for-the-badge
+https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
+
+Базы данных
+https://img.shields.io/badge/CoreData-FF2D55?style=for-the-badge
+https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+https://img.shields.io/badge/YDB-FFCC00?style=for-the-badge
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
+
+Инструменты и инфраструктура
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white
+https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white
+https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=appstore&logoColor=white
+https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+
+Специализированные знания и области
+https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white
+https://img.shields.io/badge/MASTG-000000?style=for-the-badge
