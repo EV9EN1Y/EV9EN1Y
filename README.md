@@ -82,20 +82,16 @@ markdown
 |![Контакты](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)||
 |![Контакты](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)||
 
-|![Контакты](https://img.shields.io/badge/Security_Stack-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/Lab_Solution-b81495?style=for-the-badge)|
-| :--- | :--- | 
-| строка 1 | строка 1 |
-| строка 2 | строка 2 |
-| строка 3 | строка 3 |
-
-|![Контакты](https://img.shields.io/badge/MeetWay_Security_Audit-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/Certifications_&_Courses-b81495?style=for-the-badge)|
-| :--- | :--- | 
-| строка 1 | строка 1 |
-| строка 2 | строка 2 |
-| строка 3 | строка 3 |
 
 
 
+| Основной заголовок |
+|--------------------|
+
+| Колонка 1 | Колонка 2 | Колонка 3 |
+|-----------|-----------|-----------|
+| Данные 1  | Данные 2  | Данные 3  |
+| Данные 4  | Данные 5  | Данные 6  |
 
 
 Основные технологии и языки
