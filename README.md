@@ -71,19 +71,19 @@ markdown
 
 
 
-|![Контакты](https://img.shields.io/badge/___________▢▢▢▢▢▢Developer_Stack▢▢▢▢▢▢___________-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/____________▢▢▢▢▢▢My_Projects▢▢▢▢▢▢___________-b81495?style=for-the-badge)|
+|![Контакты](https://img.shields.io/badge/Developer_Stack-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/My_Projects-b81495?style=for-the-badge)|
 | :--- | :--- |
 | строка 1 | строка 1 |
 | строка 2 | строка 2 |
 | строка 3 | строка 3 |
 
-|![Контакты](https://img.shields.io/badge/______________▢▢▢▢▢▢Security_Stack▢▢▢▢▢▢___________-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/__________▢▢▢▢▢▢Lab_Solution▢▢▢▢▢▢__________-b81495?style=for-the-badge)|
+|![Контакты](https://img.shields.io/badge/Security_Stack-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/Lab_Solution-b81495?style=for-the-badge)|
 | :--- | :--- | 
 | строка 1 | строка 1 |
 | строка 2 | строка 2 |
 | строка 3 | строка 3 |
 
-|![Контакты](https://img.shields.io/badge/__________▢▢▢▢MeetWay_Security_Audit▢▢▢▢_________-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/____▢▢▢▢Certifications_&_Courses▢▢▢▢____-b81495?style=for-the-badge)|
+|![Контакты](https://img.shields.io/badge/MeetWay_Security_Audit-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/▢▢▢▢Certifications_&_Courses-b81495?style=for-the-badge)|
 | :--- | :--- | 
 | строка 1 | строка 1 |
 | строка 2 | строка 2 |
