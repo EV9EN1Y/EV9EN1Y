@@ -68,7 +68,7 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 
 |           |           |           |
 |-----------|-----------|-----------|
-|![Контакты](https://img.shields.io/badge/MeetWay-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/TradingDiary-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/Empire-b81495?style=for-the-badge)|
+|![Контакты](https://img.shields.io/badge/MeetWay-0059b3?style=for-the-badge)|![Контакты](https://img.shields.io/badge/TradingDiary-0059b3?style=for-the-badge)|![Контакты](https://img.shields.io/badge/Empire-0059b3?style=for-the-badge)|
 ------------------------
 
 
@@ -77,9 +77,9 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 
 |           |           |           |
 |-----------|-----------|-----------|
-| ![Контакты](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)  | ![Контакты](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  | ![Контакты](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge)  |
-| ![Контакты](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  | ![Контакты](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  | ![Контакты](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  |
-| ![Контакты](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  | ![Контакты](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)  | Данные 6  |
+| ![Контакты](https://img.shields.io/badge/Swift-004c99?style=for-the-badge&logo=swift&logoColor=white)  | ![Контакты](https://img.shields.io/badge/Python-004c99?style=for-the-badge&logo=python&logoColor=white)  | ![Контакты](https://img.shields.io/badge/REST_API-004c99?style=for-the-badge)  |
+| ![Контакты](https://img.shields.io/badge/SQL-004c99?style=for-the-badge&logo=postgresql&logoColor=white)  | ![Контакты](https://img.shields.io/badge/JSON-004c99?style=for-the-badge&logo=json&logoColor=white)  | ![Контакты](https://img.shields.io/badge/JWT-004c99?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  |
+| ![Контакты](https://img.shields.io/badge/JavaScript-004c99?style=for-the-badge&logo=javascript&logoColor=black)  | ![Контакты](https://img.shields.io/badge/WebSocket-004c99?style=for-the-badge)  | Данные 6  |
 ------------------------
 
 | iOS SDK и фреймворки |
@@ -87,12 +87,11 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 
 |           |           |           |
 |-----------|-----------|-----------|
-| ![Контакты](https://img.shields.io/badge/SwiftUI-0055FF?style=for-the-badge&logo=swift&logoColor=white) | ![Контакты](https://img.shields.io/badge/UIKit-5856D6?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/CoreData-FF2D55?style=for-the-badge) |
-| ![Контакты](https://img.shields.io/badge/Keychain-8E8E93?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/StoreKit-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)  | ![Контакты](https://img.shields.io/badge/APNs-5856D6?style=for-the-badge)  |
-| ![Контакты](https://img.shields.io/badge/GCD-5856D6?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/Swift_Concurrency-F05138?style=for-the-badge&logo=swift&logoColor=white)  | ![Контакты](https://img.shields.io/badge/XCTest-147EFB?style=for-the-badge)  |
-|![Контакты](https://img.shields.io/badge/URLSession-147EFB?style=for-the-badge)|![Контакты](https://img.shields.io/badge/DGCharts-147EFB?style=for-the-badge)|
-|![Контакты](https://img.shields.io/badge/AVFoundation-147EFB?style=for-the-badge)|![Контакты](https://img.shields.io/badge/AVKit-147EFB?style=for-the-badge)|![Контакты](https://img.shields.io/badge/PhotosUI-147EFB?style=for-the-badge)|
-|![Контакты](https://img.shields.io/badge/CoreLocation-147EFB?style=for-the-badge)|||
+| ![Контакты](https://img.shields.io/badge/SwiftUI-006666?style=for-the-badge&logo=swift&logoColor=white) | ![Контакты](https://img.shields.io/badge/UIKit-006666?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/CoreData-006666?style=for-the-badge) |
+| ![Контакты](https://img.shields.io/badge/Keychain-006666?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/StoreKit-006666?style=for-the-badge&logo=appstore&logoColor=white)  | ![Контакты](https://img.shields.io/badge/APNs-006666?style=for-the-badge)  |
+| ![Контакты](https://img.shields.io/badge/GCD-006666?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/Swift_Concurrency-006666?style=for-the-badge&logo=swift&logoColor=white)  | ![Контакты](https://img.shields.io/badge/XCTest-006666?style=for-the-badge)  |
+|![Контакты](https://img.shields.io/badge/URLSession-006666?style=for-the-badge)|![Контакты](https://img.shields.io/badge/DGCharts-006666?style=for-the-badge)|![Контакты](https://img.shields.io/badge/CoreLocation-006666?style=for-the-badge)|
+|![Контакты](https://img.shields.io/badge/AVFoundation-006666?style=for-the-badge)|![Контакты](https://img.shields.io/badge/AVKit-006666?style=for-the-badge)|![Контакты](https://img.shields.io/badge/PhotosUI-006666?style=for-the-badge)|
 ------------------------
 
 | Архитектуры и принципы проектирования |
@@ -100,10 +99,10 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 
 |           |           |           |
 |-----------|-----------|-----------|
-| ![Контакты](https://img.shields.io/badge/MVVM-FF6B35?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/MVC-FF6B35?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/VIPER-FF6B35?style=for-the-badge) |
-| ![Контакты](https://img.shields.io/badge/Clean_Architecture-FF6B35?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/SOLID-FF6B35?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/SOLID-FF6B35?style=for-the-badge)  |
-| ![Контакты](https://img.shields.io/badge/OOP-FF6B35?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/Unit_Testing-FF6B35?style=for-the-badge)  ||
-|![Контакты](https://img.shields.io/badge/MVVM-FF6B35?style=for-the-badge)|![Контакты](https://img.shields.io/badge/MVC-FF6B35?style=for-the-badge)|![Контакты](https://img.shields.io/badge/VIPER-FF6B35?style=for-the-badge)|
+| ![Контакты](https://img.shields.io/badge/MVVM-660033?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/MVC-660033?style=for-the-badge) | ![Контакты](https://img.shields.io/badge/VIPER-660033?style=for-the-badge) |
+| ![Контакты](https://img.shields.io/badge/Clean_Architecture-660033?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/SOLID-660033?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/SOLID-660033?style=for-the-badge)  |
+| ![Контакты](https://img.shields.io/badge/OOP-660033?style=for-the-badge)  | ![Контакты](https://img.shields.io/badge/Unit_Testing-660033?style=for-the-badge)  ||
+|![Контакты](https://img.shields.io/badge/MVVM-660033?style=for-the-badge)|![Контакты](https://img.shields.io/badge/MVC-660033?style=for-the-badge)|![Контакты](https://img.shields.io/badge/VIPER-660033?style=for-the-badge)|
 ------------------------
 
 
