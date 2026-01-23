@@ -14,7 +14,7 @@
 MeetWay — это не просто приложение в моём портфолио. Это полнофункциональный стенд для практического изучения безопасности, который я разработал с нуля (iOS, бэкенд, инфраструктура). Здесь я моделирую, исследую и устраняю реальные уязвимости.
 
 -----------------
-[![](https://img.shields.io/badge/__My_RESUME__-ЦВЕТ?style=for-the-badge)](https://github.com/EV9EN1Y/EV9EN1Y/assets/resume.txt)
+[![](https://img.shields.io/badge/__My_RESUME__-ЦВЕТ?style=for-the-badge)](https://github.com/EV9EN1Y/EV9EN1Y/blob/main/assets/resume.txt)
 ----------------
 [![](https://img.shields.io/badge/__My_PROGECTs__-ЦВЕТ?style=for-the-badge)](http://empretradingsupport.tilda.ws)
 ----------------
