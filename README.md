@@ -174,7 +174,9 @@ JWT
 ------------------------
 
 
-
+<div align="center">
+  <img src="assets/011.png" alt="Описание" style="width: 100%; max-width: 100px;" />
+</div>
 
 
 
