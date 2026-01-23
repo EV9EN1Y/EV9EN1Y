@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="222.gif" alt="Описание" style="width: 100%; max-width: 100px;" />
+  <img src="assets/777.gif" alt="Описание" style="width: 100%; max-width: 100px;" />
 </div>
 
 🧑‍💻 Евгений Черников | iOS Developer → Application Security Engineer
