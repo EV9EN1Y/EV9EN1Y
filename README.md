@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="1234.gif" alt="Описание" style="width: 100%; max-width: 300px;" />
+  <img src="23.gif" alt="Описание" style="width: 100%; max-width: 100px;" />
 </div>
 # В ПРОЦЕССЕ РЕДАКТИРОВАНИЯ......
 
