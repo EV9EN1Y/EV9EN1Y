@@ -175,7 +175,7 @@ JWT
 
 
 <div align="center">
-  <img src="assets/011.png" alt="Описание" style="width: 100%; max-width: 100px;" />
+  <img src="assets/022.svg" alt="Описание" style="width: 100%; max-width: 100px;" />
 </div>
 
 
