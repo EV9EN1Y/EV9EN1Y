@@ -56,58 +56,35 @@ iOS: UIKit, SwiftUI, CoreData, Concurrency
 Курсы: Прохожу лаборатории PortSwigger Web Security Academy. Изучаю OWASP WSTG и Mobile Security Testing Guide (MSTG).
 Практика: Решаю задачи на HackTheBox и TryHackMe, анализирую реальные отчеты об уязвимостях.
 Постоянное развитие: Читаю технические блоги по безопасности, слежу за новыми CVE в экосистеме Apple и мобильной разработки.
+
 📫 Контакты и ссылки
 
 Я всегда открыт для обсуждения интересных проектов, совместных исследований в области AppSec или вакансий.
-
-https://
-
-🔍 Перейти к детальным исследованиям
-
-Нажмите на кнопку, чтобы увидеть мои разборы конкретных типов уязвимостей, реализованные на учебном стенде MeetWay.
-
-
-[![Документация](https://img.shields.io/badge/📚_Документация-4A90E2?style=for-the-badge)](./docs/README.md)
-
 
 markdown
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
 2. Только текст, градиент
 
-markdown
-[![Portfolio](https://img.shields.io/badge/Моё_Портфолио-FF6B8B?style=for-the-badge&logoColor=white)](https://my-site.com)
-3. С иконкой технологии
-
-markdown
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
-4. Кнопка-документация
-
-markdown
-[![Документация](https://img.shields.io/badge/📚_Документация-4A90E2?style=for-the-badge)](./docs/README.md)
-5. Со статусом (статус "обновлено")
-
-markdown
-[![Обновлено](https://img.shields.io/badge/🔄_Обновлено_сегодня-00C853?style=for-the-badge)](./UPDATES.md)
-6. Для скачивания
-
-markdown
-[![Скачать APK](https://img.shields.io/badge/📥_Скачать_APK-v1.0.0-8B4513?style=for-the-badge)](https://example.com/app.apk)
-7. Простая цветная
-
-markdown
-[![Контакты](https://img.shields.io/badge/✉️_Связаться_со_мной-FF9800?style=for-the-badge)](mailto:email@example.com)
-Шаблон для создания своей:
-
-markdown
-[![Текст_на_кнопке](https://img.shields.io/badge/ТЕКСТ-ЦВЕТ?style=for-the-badge&logo=НАЗВАНИЕ-ЛОГО&logoColor=white)](ССЫЛКА)
-https://
-
-# Мои решения PortSwigger Academy
-
-## 📂 SQL-инъекции (SQL Injection)
 
 
 [Лаборатория 1: SQL injection...](https://github.com/EV9EN1Y/portswigger-academy-solutions/blob/main/SQLi_all_lab/SQLi_lab_01.md)
 
 
 
+|![Контакты](https://img.shields.io/badge/___________Developer_Stack___________-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/____________My_Projects___________-b81495?style=for-the-badge)|
+| :--- | :--- |
+| строка 1 | строка 1 |
+| строка 2 | строка 2 |
+| строка 3 | строка 3 |
+
+|![Контакты](https://img.shields.io/badge/___________Security_Stack___________-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/____________Lab_Solution____________-b81495?style=for-the-badge)|
+| :--- | :--- | 
+| строка 1 | строка 1 |
+| строка 2 | строка 2 |
+| строка 3 | строка 3 |
+
+|![Контакты](https://img.shields.io/badge/___________MeetWay_Security_Audit___________-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/____________Certifications_&_Courses____________-b81495?style=for-the-badge)|
+| :--- | :--- | 
+| строка 1 | строка 1 |
+| строка 2 | строка 2 |
+| строка 3 | строка 3 |
