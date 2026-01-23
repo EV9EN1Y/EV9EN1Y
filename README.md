@@ -83,7 +83,7 @@ markdown
 | строка 2 | строка 2 |
 | строка 3 | строка 3 |
 
-|![Контакты](https://img.shields.io/badge/MeetWay_Security_Audit-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/▢▢▢▢Certifications_&_Courses-b81495?style=for-the-badge)|
+|![Контакты](https://img.shields.io/badge/MeetWay_Security_Audit-b81495?style=for-the-badge)|![Контакты](https://img.shields.io/badge/Certifications_&_Courses-b81495?style=for-the-badge)|
 | :--- | :--- | 
 | строка 1 | строка 1 |
 | строка 2 | строка 2 |
