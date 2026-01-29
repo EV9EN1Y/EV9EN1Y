@@ -15,11 +15,11 @@ MeetWay — это не просто приложение в моём портф
 ---------------------
 
 -----------------
-ПРОСМОТРЕТЬ МОЕ РЕЗЮМЕ:   [![](https://img.shields.io/badge/__My_RESUME__-ЦВЕТ?style=for-the-badge)](https://github.com/EV9EN1Y/EV9EN1Y/blob/main/assets/resume.txt)
+ПРОСМОТРЕТЬ МОЕ РЕЗЮМЕ:➤______________[![](https://img.shields.io/badge/__My_RESUME__-FF9800?style=for-the-badge)](https://github.com/EV9EN1Y/EV9EN1Y/blob/main/assets/resume.txt)
 ----------------
-УЗНАТЬ ПРО МОИ ПРОЕКТЫ:  [![](https://img.shields.io/badge/__My_PROGECTs__-ЦВЕТ?style=for-the-badge)](http://empretradingsupport.tilda.ws)
+УЗНАТЬ ПРО МОИ ПРОЕКТЫ:➤_______________[![](https://img.shields.io/badge/__My_PROGECTs__-FF9800?style=for-the-badge)](http://empretradingsupport.tilda.ws)
 ----------------
-ИЗУЧИТЕ МОЙ УЧЕБНЫЙ ПОЛИГОН:  [![My Resume](https://img.shields.io/badge/__МОИ_ЛАБЫ_PORTSWIGGER+УЧЕБНЫЙ_СТЕНД__-ЦВЕТ?style=for-the-badge)](https://github.com/EV9EN1Y/MAIN-REPO)
+ИЗУЧИТЕ МОЙ УЧЕБНЫЙ ПОЛИГОН:➤________[![My Resume](https://img.shields.io/badge/__МОИ_ЛАБЫ_PORTSWIGGER+УЧЕБНЫЙ_СТЕНД__-FF9800?style=for-the-badge)](https://github.com/EV9EN1Y/MAIN-REPO)
 ----------------
 
 <div align="center">
