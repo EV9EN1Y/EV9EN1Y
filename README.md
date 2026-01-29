@@ -19,7 +19,7 @@ MeetWay — это не просто приложение в моём портф
 ----------------
 УЗНАТЬ ПРО МОИ ПРОЕКТЫ:➤_______________[![](https://img.shields.io/badge/__My_PROGECTs__-FF9800?style=for-the-badge)](http://empretradingsupport.tilda.ws)
 ----------------
-ИЗУЧИТЕ МОЙ УЧЕБНЫЙ ПОЛИГОН:➤________[![My Resume](https://img.shields.io/badge/__МОИ_ЛАБЫ_PORTSWIGGER+УЧЕБНЫЙ_СТЕНД__-FF9800?style=for-the-badge)](https://github.com/EV9EN1Y/MAIN-REPO)
+ИЗУЧИТЬ МОЙ УЧЕБНЫЙ ПОЛИГОН:➤________[![My Resume](https://img.shields.io/badge/__МОИ_ЛАБЫ_PORTSWIGGER+УЧЕБНЫЙ_СТЕНД__-FF9800?style=for-the-badge)](https://github.com/EV9EN1Y/MAIN-REPO)
 ----------------
 
 <div align="center">
