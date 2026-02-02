@@ -2,8 +2,8 @@
   <img src="assets/777.gif" alt="Описание" style="width: 100%; max-width: 100px;" />
 </div>
 
-🧑‍💻 Евгений Черников  | iOS Developer | Application Security Engineer
-📍 Краснодар, Россия | 2_zheka@bk.ru | +7 (938) 544-86-33
+🧑‍💻 Евгений   | iOS Developer | Application Security Engineer
+📍 Россия    | 2_zheka@bk.ru | +7 (938) 544-86-33
 
 ---------------
 Я iOS-разработчик с 2+ годами опыта, который целенаправленно переходит в сферу Application Security (AppSec). 
