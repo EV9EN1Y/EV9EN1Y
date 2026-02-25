@@ -3,7 +3,7 @@
 </div>
 
 🧑‍💻 Евгений   | iOS Developer | Application Security Engineer
-📍 Россия    | 2_zheka@bk.ru | 
+📍 Россия    | 2_zheka@bk.ru | 8   938 544 86 33
 
 ---------------
 Я iOS-разработчик с 2+ годами опыта, который целенаправленно переходит в сферу Application Security (AppSec). 
