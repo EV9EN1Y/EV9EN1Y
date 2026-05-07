@@ -62,6 +62,55 @@ OWASP MASTG/MASVS: Конспекты и структурированный по
 Фундаментальные знания: Собственные конспекты по сетям (OSI, TCP/IP, HTTP), криптографии (PKI, AES, E2EE), ОС и языкам программирования.
 Образование и Сертификаты
 
+-------
+
+🟢 Мобильная безопасность (iOS) / Mobile AppSec
+
+Стандарты и методологии:
+OWASP MASTG, OWASP MASVS (100% покрытие, уровни L1, L2, L3/R)
+
+Пройдено тестов: 60+ по всем категориям MASVS:
+
+MASVS-AUTH (аутентификация, биометрия) — 5 тестов
+MASVS-CODE (качество кода, SCA, ARC, канарейки) — 3 теста
+MASVS-CRYPTO (криптография, ключи, хеши, режимы) — 7 тестов
+MASVS-NETWORK (TLS, ATS, Certificate Pinning) — 4 теста
+MASVS-PLATFORM (платформа iOS) — 23 теста
+MASVS-PRIVACY (Privacy Manifest, трекинг) — 1 тест
+MASVS-RESILIENCE (реверс, jailbreak, анти-дебаг, обфускация) — 10+ тестов
+MASVS-STORAGE (логи, бэкапы, кеш, приватное хранилище) — 5 тестов
+Навыки атаки / пентеста (DAST):
+
+Обход SSL Pinning (с джейлбрейком и без)
+Перехват трафика реального iPhone (WiFi + Burp) и iOS симулятора
+Обход Jailbreak detection (код + runtime: Frida, radare2, LLDB, патчинг)
+Обход Anti-debug detection
+Извлечение данных из Keychain (keychain_dumper)
+Поиск утечек через логи, бэкапы, кеш клавиатуры
+Навыки защиты (hardening):
+
+Настройка Certificate Pinning / SSL Pinning
+Jailbreak detection (код + runtime проверки)
+Обфускация кода и данных
+Проверка целостности IPA
+ARC, Stack Canaries, PIC — включение защит компилятора
+Удаление отладочных символов из релизной сборки
+Privacy Manifest, Secure Enclave
+Аудит кода (SAST / реверс):
+
+Поиск хардкод ключей в бинарнике и исходниках
+Выявление Insecure Random API, слабых алгоритмов (ECB, устаревшие хеши MD5/SHA1)
+Проверка TLS настроек и ATS
+SCA / SBOM (Dependency-Track)
+Инструменты:
+Frida, Objection, LLDB, radare2, Burp Suite, MobSF, Semgrep, keychain_dumper, iMazing, strings/nm/otool, palera1n (SSH)
+
+Реальный проект:
+Социальная сеть MeetWay (iOS) — полный цикл: аудит → внедрение защиты → попытка взлома → закрытие уязвимостей → повторный аудит.
+
+
+----------
+
 Высшее образование: Авиационный институт (Диплом с отличием)
 Курсы: Stanford University (Разработка iOS приложений), Вячеслав Белый (iOS разработка), Скутаренко (Swift основы)
 Профессиональное развитие: Apple Developer Program, самостоятельное углубленное изучение Clean Architecture, iOS Security, OWASP.
