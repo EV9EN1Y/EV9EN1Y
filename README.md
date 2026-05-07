@@ -33,7 +33,7 @@ MeetWay — это не просто приложение в моём портф
 
 --------
 <div align="center">
-  <img src="assets/Frame-50.pdf" alt="Описание" style="width: 85%; max-width: 100px;" />
+  <img src="assets/Frame 51.png" alt="Описание" style="width: 85%; max-width: 100px;" />
 </div>
 
 -----------------
