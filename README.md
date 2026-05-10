@@ -16,6 +16,12 @@ MeetWay — это не просто приложение в моём портф
 🟣 Вот ЗДЕСЬ https://github.com/EV9EN1Y/MAIN-REPO/blob/obsidian/ПУТЬ-В-КИБЕР-БЕЗ/MASTGE/ios_testing_MeetWay/0_MeetWay.md можно ознакомиться с приложением и в папке ios_testing_MeetWay посмотреть то, как я тестировал его !
 ---------------------
 
+🔶 3 приложения в App Store + бэкенд к ним
+ 🔶 60+ тестов по OWASP MASVS (100% покрытие iOS безопасности),(android - в процессе)
+ 🔶 240 лабораторных PortSwigger (Web Security, все категории)
+ 🔶 Внедрял защиту в реальный проект: от аудита до фиксов (sll pinning..,Jailbreak-Detection, итп)
+ 🔶 CI/CD: self-hosted GitHub Actions runner (Cloud.ru, Docker, systemd), пайплайны для iOS, безопасная изоляция задач
+
 -----------------
 ПРОСМОТРЕТЬ МОЕ РЕЗЮМЕ:➤______________[![](https://img.shields.io/badge/__My_RESUME__-FF9800?style=for-the-badge)](https://github.com/EV9EN1Y/EV9EN1Y/blob/main/assets/resume.txt)
 ----------------
@@ -33,7 +39,7 @@ MeetWay — это не просто приложение в моём портф
 
 --------
 <div align="center">
-  <img src="assets/Frame 51.png" alt="Описание" style="width: 85%; max-width: 100px;" />
+  <img src="assets/Frame-52.png" alt="Описание" style="width: 85%; max-width: 100px;" />
 </div>
 
 -----------------
