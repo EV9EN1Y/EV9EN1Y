@@ -17,9 +17,13 @@ MeetWay — это не просто приложение в моём портф
 ---------------------
 
 🔶 3 приложения в App Store + бэкенд к ним
+
  🔶 60+ тестов по OWASP MASVS (100% покрытие iOS безопасности),(android - в процессе)
+ 
  🔶 240 лабораторных PortSwigger (Web Security, все категории)
+ 
  🔶 Внедрял защиту в реальный проект: от аудита до фиксов (sll pinning..,Jailbreak-Detection, итп)
+ 
  🔶 CI/CD: self-hosted GitHub Actions runner (Cloud.ru, Docker, systemd), пайплайны для iOS, безопасная изоляция задач
 
 -----------------
