@@ -24,7 +24,10 @@ MeetWay — это не просто приложение в моём портф
  
  🔶 Внедрял защиту в реальный проект: от аудита до фиксов (sll pinning..,Jailbreak-Detection, итп)
  
- 🔶 CI/CD: self-hosted GitHub Actions runner (Cloud.ru, Docker, systemd), пайплайны для iOS, безопасная изоляция задач
+ 🔶 CI/CD: self-hosted GitHub Actions runner (Cloud.ru, Docker, systemd), пайплайны для iOS, безопасная 
+изоляция задач
+
+🔶  "Настроил enterprise‑безопасность self‑hosted CI/CD: SSH по ключам, UFW (стандартный Linux firewall) с единственным портом 22, Docker в non‑privileged режиме с изоляцией через systemd, пайплайн с верификацией целостности кода, SAST и автоматическим фейлом при критичных уязвимостях"
 
 -----------------
 ПРОСМОТРЕТЬ МОЕ РЕЗЮМЕ:➤______________[![](https://img.shields.io/badge/__My_RESUME__-FF9800?style=for-the-badge)](https://github.com/EV9EN1Y/EV9EN1Y/blob/main/assets/resume.txt)
