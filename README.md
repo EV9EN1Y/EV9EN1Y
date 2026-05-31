@@ -16,7 +16,9 @@ MeetWay — это не просто приложение в моём портф
 🟣 Вот ЗДЕСЬ https://github.com/EV9EN1Y/MAIN-REPO/blob/obsidian/ПУТЬ-В-КИБЕР-БЕЗ/MASTGE/ios_testing_MeetWay/0_MeetWay.md можно ознакомиться с приложением и в папке ios_testing_MeetWay посмотреть то, как я тестировал его !
 ---------------------
 
-🔶 3 приложения в App Store + бэкенд к ним
+🔶 3 iOS приложения в App Store (Uikit/SwiftUI) + бэкенд к ним, (в том числе, соц сеть MeetWay)
+
+🔶 1 Android приложение на Cotlin (соц сеть MeetWay) + общий бекенд
 
  🔶 60+ тестов по OWASP MASVS (100% покрытие iOS безопасности),(android - в процессе)
  
@@ -29,6 +31,8 @@ MeetWay — это не просто приложение в моём портф
 
 🔶  "Настроил enterprise‑безопасность self‑hosted CI/CD: SSH по ключам, UFW (стандартный Linux firewall) с единственным портом 22, Docker в non‑privileged режиме с изоляцией через systemd, пайплайн с верификацией целостности кода, SAST и автоматическим фейлом при критичных уязвимостях"
 
+🔶  Интегрировал локального Ai LLM агента (OpenClaw) в работу по SAST анализу уязвимостей (+ реверс), делаю анализ сам, потом запускаю его, и сравниваю результат моей работы и его. Быстро, удобно, полезно! 
+ 
 -----------------
 ПРОСМОТРЕТЬ МОЕ РЕЗЮМЕ:➤______________[![](https://img.shields.io/badge/__My_RESUME__-FF9800?style=for-the-badge)](https://github.com/EV9EN1Y/EV9EN1Y/blob/main/assets/resume.txt)
 ----------------
